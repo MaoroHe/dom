@@ -1,12 +1,8 @@
 // .1
 
-let pimportant = document.querySelector('p.important');
-let imgimportant = document.querySelector('img.important');
-let spanimportant = document.querySelector('span.important');
+let aImportant = document.querySelectorAll('.important');
 
-pimportant.title = "This is an important item";
-imgimportant.title = "This is an important item";
-spanimportant.title = "This is an important item";
+aImportant.title = "This is an important item";
 
 // .2
 
